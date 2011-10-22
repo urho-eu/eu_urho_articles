@@ -1,0 +1,7 @@
+eu_urho_articles
+================
+This is a simple extension of the fi_openkeidas_articles Midgard MVC
+component. This implementation does not require users to be signed in in
+order to read articles.
+
+

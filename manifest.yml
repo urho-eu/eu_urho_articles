@@ -1,0 +1,7 @@
+version: 0.0.1
+requires:
+    fi_openkeidas_articles:
+        - {type: github, user: nemein, repository: fi_openkeidas_articles, branch: master}
+process_injector: eu_urho_articles_injector
+template_injector: eu_urho_articles_injector
+extends: fi_openkeidas_articles
