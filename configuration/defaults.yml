@@ -1,0 +1,5 @@
+# maximum number of articles shown on a page
+index_items: 6
+
+# @todo: comment
+index_container: http://purl.org/dc/dcmitype/Collection
