@@ -1,8 +1,8 @@
 version: 0.0.1
 
 requires:
-    midgardmvc_helper_forms:
-        - {type: github, user: feri, repository: midgardmvc_helper_forms, branch: master}
+    midgardmvc_helper_attachmentserver:
+        - {type: github, user: feri, repository: midgardmvc_helper_attachmentserver, branch: master}
 
 process_injector: eu_urho_articles_injector
 template_injector: eu_urho_articles_injector
