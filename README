@@ -1,7 +1,10 @@
 eu_urho_articles
 ================
-This is a simple extension of the fi_openkeidas_articles Midgard MVC
-component. This implementation does not require users to be signed in in
-order to read articles.
+Inspired by fi_openkeidas_articles Midgard MVC component.
 
+In this implementation each article has a language flag, which makes it possible
+to do multi language content management.
 
+Author
+======
+Ferenc Szekely <ferenc.szekely@urho.eu>
